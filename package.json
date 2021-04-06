@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepika Goel",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}
